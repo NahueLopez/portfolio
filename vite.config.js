@@ -5,8 +5,8 @@ import react from '@vitejs/plugin-react-swc'
 export default defineConfig({
   plugins: [react()],
 <<<<<<< HEAD
-  base:"https://nahuelopez.github.io/Porfolio/",
+  base:"https://nahuelopez.github.io/portfolio/",
 =======
-  base: "https://nahuelopez.github.io/Porfolio/",
+  base: "https://nahuelopez.github.io/portfolio/",
 >>>>>>> 188bad5d880fc78bc929b1412508b15b17644aa1
 })
