@@ -22,7 +22,7 @@ export default function Projects() {
   return (
     <section id="projects" className='section'>
       <div className='container mx-auto h-screen'>
-        <div className='xl:mx-40 mt-[-150px] lg:mt-20 md:mt-10  xl:mt-10 flex flex-col lg:flex-row gap-x-10 h-screen'>
+        <div className='xl:mx-40 mt-[-150px] lg:mt-10 md:mt-10  xl:mt-10 flex flex-col lg:flex-row gap-x-10 h-screen'>
           <motion.div 
             variants={fadeIn('up',0.3)} 
             initial="hidden" 
